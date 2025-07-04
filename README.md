@@ -1,6 +1,6 @@
-Opis
+
 To zapytanie SQL analizuje miesięczne powtarzalne przychody (MRR - Monthly Recurring Revenue) dla płatności w grach, obliczając kluczowe metryki dla każdego użytkownika i gry.
-Co robi zapytanie
+
 1. Agregacja płatności (payment_summary)
 
 Grupuje płatności według miesięcy, gier i użytkowników
