@@ -1,3 +1,5 @@
+Pod poniższym linkiem znajduje się dashboard prezentujący wyniki obliczonych metryk:
+https://public.tableau.com/app/profile/vitalii.movchan7798/viz/final_17488069624050/Dashboard1
 
 To zapytanie SQL analizuje miesięczne powtarzalne przychody (MRR - Monthly Recurring Revenue) dla płatności w grach, obliczając kluczowe metryki dla każdego użytkownika i gry.
 
